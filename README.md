@@ -18,7 +18,7 @@
  
 <br />
 
-  <h3> I'm 15 years old high schooler from India.</h3>
+  <h3> I'm a 15 years old high schooler from India.</h3>
 </p>
 
  - 🌱 Currently learning: Ethical Hacking, Prompt Engineering, and Cloud Computing
