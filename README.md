@@ -64,7 +64,14 @@ GitHub: [Your GitHub Profile]
 
  - 🌐 Enthusiastic about participating in hackathons and coding competitions.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 📫 How to reach me:
+      - Email: [ananyaarana.18@gmail.com] , [ranaananya18@gmail.com] , [mail2ananya.rana@gmail.com]
+      - GitHub: [Your GitHub Profile]
+
+ - 💼 Skills:
+      - Programming Languages: JavaScript, TypeScript, HTML, CSS, Ruby, Python, Java, PHP, Next.js, Prisma, Node.js, C#, Linux
+      - Frameworks and Libraries: React, Redux, Storybook, Styled-Components
+      - Tools: Jest, Docker, Jupyter Notebook, Spider, Block, Visual Studio Code, Debian, Ubuntu, Red Hat/Fedora
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
