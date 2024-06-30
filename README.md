@@ -111,8 +111,4 @@
 </p>
 <p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/ananyaaa-18/ananyaaa-18/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
