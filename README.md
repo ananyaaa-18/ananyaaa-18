@@ -7,12 +7,12 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👧🏽 Ananya Rana | 💻 Student @Shiv_Nadar_School | 🛸 India , <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👧🏽 Ananya Rana | 💻 Student @ShivNadarSchool | 🗺️ India , <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>✨ professional day dreamer✨</i>
   </h5>
  
  
