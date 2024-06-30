@@ -42,6 +42,7 @@
  - 📫 How to reach me:
       - Email: [ananyaarana.18@gmail.com] , [ranaananya18@gmail.com] , [mail2ananya.rana@gmail.com]
       - GitHub: [Your GitHub Profile]
+      - [Spotify]([https://open.spotify.com/user/31ytb27s6qmnyaojcorszk6vtpfi?si=b20b459d7d7c4a3f])
 
  - 💼 Skills:
       - Programming Languages: JavaScript, TypeScript, HTML, CSS, Ruby, Python, Java, PHP, Next.js, Prisma, Node.js, C#, Linux
